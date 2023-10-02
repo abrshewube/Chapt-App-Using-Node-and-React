@@ -1,0 +1,106 @@
+{
+    "songs": [
+      {
+        "id": 1,
+        "title": "Tizita",
+        "artist": "Mahmoud Ahmed"
+      },
+      {
+        "id": 2,
+        "title": "Yene Felagote",
+        "artist": "Teddy Afro"
+      },
+      {
+        "id": 3,
+        "title": "Min Yishalal",
+        "artist": "Aster Aweke"
+      },
+      {
+        "id": 4,
+        "title": "Yene Hassab",
+        "artist": "Gossaye Tesfaye"
+      },
+      {
+        "id": 5,
+        "title": "Hagere",
+        "artist": "Tewodros Kassahun (Teddy Afro)"
+      },
+      {
+        "id": 6,
+        "title": "Selam",
+        "artist": "Mahmoud Ahmed"
+      },
+      {
+        "id": 7,
+        "title": "Sebebu",
+        "artist": "Alemayehu Eshete"
+      },
+      {
+        "id": 8,
+        "title": "Tena Yistilign",
+        "artist": "Tewodros Kassahun (Teddy Afro)"
+      },
+      {
+        "id": 9,
+        "title": "Yekermo Sew",
+        "artist": "Mulatu Astatke"
+      },
+      {
+        "id": 10,
+        "title": "Birabiro",
+        "artist": "Girma Beyene"
+      },
+      {
+        "id": 11,
+        "title": "Tezeta",
+        "artist": "Mulatu Astatke"
+      },
+      {
+        "id": 12,
+        "title": "Lebe",
+        "artist": "Aster Aweke"
+      },
+      {
+        "id": 13,
+        "title": "Yasteseryal",
+        "artist": "Tewodros Kassahun (Teddy Afro)"
+      },
+      {
+        "id": 14,
+        "title": "Yihe Newe",
+        "artist": "Aster Aweke"
+      },
+      {
+        "id": 15,
+        "title": "Nafkot",
+        "artist": "Alemayehu Eshete"
+      },
+      {
+        "id": 16,
+        "title": "Metche New",
+        "artist": "Girma Beyene"
+      },
+      {
+        "id": 17,
+        "title": "Gedam",
+        "artist": "Tewodros Kassahun (Teddy Afro)"
+      },
+      {
+        "id": 18,
+        "title": "Ye Geta Siqlet",
+        "artist": "Mahmoud Ahmed"
+      },
+      {
+        "id": 19,
+        "title": "Awdamet",
+        "artist": "Tewodros Kassahun (Teddy Afro)"
+      },
+      {
+        "id": 20,
+        "title": "Awdamet",
+        "artist": "Alemayehu Eshete"
+      }
+    ]
+  }
+  
+
